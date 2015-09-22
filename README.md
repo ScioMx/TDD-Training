@@ -18,6 +18,23 @@ Follow these instructions:
 
 6. Push to your repository.
 
+## Basics
+
+[TestFixture]
+class MyTestClass
+{ 
+   
+   [Test] public void OneIsEqual()
+   {
+      Assert.That(1,Is.EqualTo(1));
+   }
+   
+   [TestCase] public void method(Number)
+   {
+      //....
+   }
+}
+
 ## About the exercises
 These exercises comply with the following criteria:
 
