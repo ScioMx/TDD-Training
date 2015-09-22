@@ -6,12 +6,18 @@ Test-driven development (TDD) is a software development process that relies on t
 ## Instructions
 
 Follow these instructions:
-0. Read [this article](http://agiledata.org/essays/tdd.html) to get the theory behind this methodology.
-1. Clone the repository.
-2. Open the solution in Visual Studio.
-3. Implement the tests.
-4. Implement the code.
-5. Push to your repository.
+
+1. Read [this article](http://agiledata.org/essays/tdd.html) to get the theory behind this methodology.
+
+2. Clone the repository.
+
+3. Open the solution in Visual Studio.
+
+4. Implement the tests.
+
+5. Implement the code.
+
+6. Push to your repository.
 
 ## About the exercises
 These exercises comply with the following criteria:
