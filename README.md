@@ -13,7 +13,7 @@ Follow these instructions:
 
 3. Open the solution in Visual Studio.
 
-4. Implement the tests.
+4. Implement the tests (Each exercise is described [here](https://github.com/ScioMx/TDD-Training/wiki)).
 
 5. Implement the code.
 
